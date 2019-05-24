@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "images": [
+      {
+				"img": "http:\/\/xrs.duoguan.com\/2019-03-05_5c7df007acf57.jpg",
+				"text": "",
+				"link": "",
+				"linkText": ""
+			}, {
+				"img": "http:\/\/xrs.duoguan.com\/2019-03-05_5c7df00b9e1d0.jpg",
+				"text": "",
+				"link": "",
+				"linkText": ""
+			}, {
+				"img": "http:\/\/xrs.duoguan.com\/2019-03-05_5c7df016300cb.png",
+				"text": "",
+				"link": "",
+				"linkText": ""
+			}
+    ]
+  }
+}
