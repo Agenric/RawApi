@@ -1,0 +1,522 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": [
+    {
+      "id": "3612390",
+      "cate_id": "637323",
+      "cate_c_id": "0",
+      "g_renqi": "1",
+      "g_name": "香橙澳洲雪花牛排沙拉",
+      "g_img": "http://xrs.tupiancunchu.com/2019-05-20_5ce2ab72b8bd7.jpg",
+      "g_description": "",
+      "g_danwei": "份",
+      "market_price": "0.00",
+      "shop_price": "42.00",
+      "dabao_price": "0.00",
+      "all_kucun": "-1",
+      "day_kucun": "-1",
+      "sale_day_num": "0",
+      "sale_all_num": "4",
+      "virtual_sales": "0",
+      "is_order": "1",
+      "is_shangjia": "1",
+      "is_waimai": "1",
+      "dish_id": "81766",
+      "update_time": "1558358927",
+      "goods_type": "15785",
+      "goods_like_num": "0",
+      "g_print_tag": "0",
+      "is_delete": "1",
+      "is_discount": "0",
+      "discount": "0.00",
+      "discount_price": "0.00",
+      "buy_count": "0",
+      "is_recommend": "0",
+      "yue_xiaoliang": 4,
+      "like_num": 0,
+      "goods_properties": [],
+      "goods_specification": [
+        {
+          "attr_type": "1",
+          "name": "口味",
+          "values": [
+            {
+              "label": "柠檬薄荷牧场酱",
+              "price": "42.00",
+              "format_price": 42,
+              "ischeck": false,
+              "id": "272935"
+            },
+            {
+              "label": "法式罗勒牛油果酱",
+              "price": "42.00",
+              "format_price": 42,
+              "ischeck": false,
+              "id": "272936"
+            },
+            {
+              "label": "意式油醋汁",
+              "price": "42.00",
+              "format_price": 42,
+              "ischeck": false,
+              "id": "272937"
+            },
+            {
+              "label": "蜂蜜芥末酱",
+              "price": "42.00",
+              "format_price": 42,
+              "ischeck": false,
+              "id": "272938"
+            },
+            {
+              "label": "和风芝麻酱",
+              "price": "42.00",
+              "format_price": 42,
+              "ischeck": false,
+              "id": "272939"
+            },
+            {
+              "label": "日式口味酱",
+              "price": "42.00",
+              "format_price": 42,
+              "ischeck": false,
+              "id": "272940"
+            }
+          ]
+        }
+      ],
+      "cart_goods_number": 0
+    },
+    {
+      "id": "3612391",
+      "cate_id": "637323",
+      "cate_c_id": "0",
+      "g_renqi": "1",
+      "g_name": "牛人凯撒藜麦沙拉",
+      "g_img": "http://xrs.tupiancunchu.com/2019-05-20_5ce2aba050eda.jpg",
+      "g_description": "",
+      "g_danwei": "份",
+      "market_price": "0.00",
+      "shop_price": "39.00",
+      "dabao_price": "0.00",
+      "all_kucun": "-1",
+      "day_kucun": "-1",
+      "sale_day_num": "0",
+      "sale_all_num": "4",
+      "virtual_sales": "0",
+      "is_order": "2",
+      "is_shangjia": "1",
+      "is_waimai": "1",
+      "dish_id": "81766",
+      "update_time": "1558358975",
+      "goods_type": "15785",
+      "goods_like_num": "0",
+      "g_print_tag": "0",
+      "is_delete": "1",
+      "is_discount": "0",
+      "discount": "0.00",
+      "discount_price": "0.00",
+      "buy_count": "0",
+      "is_recommend": "0",
+      "yue_xiaoliang": 4,
+      "like_num": 0,
+      "goods_properties": [],
+      "goods_specification": [
+        {
+          "attr_type": "1",
+          "name": "口味",
+          "values": [
+            {
+              "label": "柠檬薄荷牧场酱",
+              "price": "39.00",
+              "format_price": 39,
+              "ischeck": false,
+              "id": "272941"
+            },
+            {
+              "label": "法式罗勒牛油果酱",
+              "price": "39.00",
+              "format_price": 39,
+              "ischeck": false,
+              "id": "272942"
+            },
+            {
+              "label": "意式油醋汁",
+              "price": "39.00",
+              "format_price": 39,
+              "ischeck": false,
+              "id": "272943"
+            },
+            {
+              "label": "蜂蜜芥末酱",
+              "price": "39.00",
+              "format_price": 39,
+              "ischeck": false,
+              "id": "272944"
+            },
+            {
+              "label": "和风芝麻酱",
+              "price": "39.00",
+              "format_price": 39,
+              "ischeck": false,
+              "id": "272945"
+            },
+            {
+              "label": "日式口味酱",
+              "price": "39.00",
+              "format_price": 39,
+              "ischeck": false,
+              "id": "272946"
+            }
+          ]
+        }
+      ],
+      "cart_goods_number": 0
+    },
+    {
+      "id": "3612393",
+      "cate_id": "637323",
+      "cate_c_id": "0",
+      "g_renqi": "1",
+      "g_name": "鲜芒凤尾虾藜麦沙拉",
+      "g_img": "http://xrs.tupiancunchu.com/2019-05-20_5ce2abd26f6b6.jpg",
+      "g_description": "",
+      "g_danwei": "份",
+      "market_price": "0.00",
+      "shop_price": "38.00",
+      "dabao_price": "0.00",
+      "all_kucun": "-1",
+      "day_kucun": "-1",
+      "sale_day_num": "0",
+      "sale_all_num": "10",
+      "virtual_sales": "0",
+      "is_order": "3",
+      "is_shangjia": "1",
+      "is_waimai": "1",
+      "dish_id": "81766",
+      "update_time": "1558359024",
+      "goods_type": "15785",
+      "goods_like_num": "0",
+      "g_print_tag": "0",
+      "is_delete": "1",
+      "is_discount": "0",
+      "discount": "0.00",
+      "discount_price": "0.00",
+      "buy_count": "0",
+      "is_recommend": "0",
+      "yue_xiaoliang": 10,
+      "like_num": 0,
+      "goods_properties": [],
+      "goods_specification": [
+        {
+          "attr_type": "1",
+          "name": "口味",
+          "values": [
+            {
+              "label": "柠檬薄荷牧场酱",
+              "price": "38.00",
+              "format_price": 38,
+              "ischeck": false,
+              "id": "272947"
+            },
+            {
+              "label": "法式罗勒牛油果酱",
+              "price": "38.00",
+              "format_price": 38,
+              "ischeck": false,
+              "id": "272948"
+            },
+            {
+              "label": "意式油醋汁",
+              "price": "38.00",
+              "format_price": 38,
+              "ischeck": false,
+              "id": "272949"
+            },
+            {
+              "label": "蜂蜜芥末酱",
+              "price": "38.00",
+              "format_price": 38,
+              "ischeck": false,
+              "id": "272950"
+            },
+            {
+              "label": "和风芝麻酱",
+              "price": "38.00",
+              "format_price": 38,
+              "ischeck": false,
+              "id": "272951"
+            },
+            {
+              "label": "日式口味酱",
+              "price": "38.00",
+              "format_price": 38,
+              "ischeck": false,
+              "id": "272952"
+            }
+          ]
+        }
+      ],
+      "cart_goods_number": 0
+    },
+    {
+      "id": "3612395",
+      "cate_id": "637323",
+      "cate_c_id": "0",
+      "g_renqi": "1",
+      "g_name": "低卡龙利鱼藜麦沙拉",
+      "g_img": "http://xrs.tupiancunchu.com/2019-05-20_5ce2ac01c48bf.jpg",
+      "g_description": "",
+      "g_danwei": "份",
+      "market_price": "0.00",
+      "shop_price": "36.00",
+      "dabao_price": "0.00",
+      "all_kucun": "-1",
+      "day_kucun": "-1",
+      "sale_day_num": "0",
+      "sale_all_num": "6",
+      "virtual_sales": "0",
+      "is_order": "4",
+      "is_shangjia": "1",
+      "is_waimai": "1",
+      "dish_id": "81766",
+      "update_time": "1558359073",
+      "goods_type": "15785",
+      "goods_like_num": "0",
+      "g_print_tag": "0",
+      "is_delete": "1",
+      "is_discount": "0",
+      "discount": "0.00",
+      "discount_price": "0.00",
+      "buy_count": "0",
+      "is_recommend": "0",
+      "yue_xiaoliang": 6,
+      "like_num": 0,
+      "goods_properties": [],
+      "goods_specification": [
+        {
+          "attr_type": "1",
+          "name": "口味",
+          "values": [
+            {
+              "label": "柠檬薄荷牧场酱",
+              "price": "36.00",
+              "format_price": 36,
+              "ischeck": false,
+              "id": "272953"
+            },
+            {
+              "label": "法式罗勒牛油果酱",
+              "price": "36.00",
+              "format_price": 36,
+              "ischeck": false,
+              "id": "272954"
+            },
+            {
+              "label": "意式油醋汁",
+              "price": "36.00",
+              "format_price": 36,
+              "ischeck": false,
+              "id": "272955"
+            },
+            {
+              "label": "蜂蜜芥末酱",
+              "price": "36.00",
+              "format_price": 36,
+              "ischeck": false,
+              "id": "272956"
+            },
+            {
+              "label": "和风芝麻酱",
+              "price": "36.00",
+              "format_price": 36,
+              "ischeck": false,
+              "id": "272957"
+            },
+            {
+              "label": "日式口味酱",
+              "price": "36.00",
+              "format_price": 36,
+              "ischeck": false,
+              "id": "272958"
+            }
+          ]
+        }
+      ],
+      "cart_goods_number": 0
+    },
+    {
+      "id": "3612397",
+      "cate_id": "637323",
+      "cate_c_id": "0",
+      "g_renqi": "1",
+      "g_name": "深海金枪鱼藜麦沙拉",
+      "g_img": "http://xrs.tupiancunchu.com/2019-05-20_5ce2ac30e6db4.jpg",
+      "g_description": "",
+      "g_danwei": "份",
+      "market_price": "0.00",
+      "shop_price": "33.00",
+      "dabao_price": "0.00",
+      "all_kucun": "-1",
+      "day_kucun": "-1",
+      "sale_day_num": "0",
+      "sale_all_num": "1",
+      "virtual_sales": "0",
+      "is_order": "5",
+      "is_shangjia": "1",
+      "is_waimai": "1",
+      "dish_id": "81766",
+      "update_time": "1558359118",
+      "goods_type": "15785",
+      "goods_like_num": "0",
+      "g_print_tag": "0",
+      "is_delete": "1",
+      "is_discount": "0",
+      "discount": "0.00",
+      "discount_price": "0.00",
+      "buy_count": "0",
+      "is_recommend": "0",
+      "yue_xiaoliang": 1,
+      "like_num": 0,
+      "goods_properties": [],
+      "goods_specification": [
+        {
+          "attr_type": "1",
+          "name": "口味",
+          "values": [
+            {
+              "label": "柠檬薄荷牧场酱",
+              "price": "33.00",
+              "format_price": 33,
+              "ischeck": false,
+              "id": "272959"
+            },
+            {
+              "label": "法式罗勒牛油果酱",
+              "price": "33.00",
+              "format_price": 33,
+              "ischeck": false,
+              "id": "272960"
+            },
+            {
+              "label": "意式油醋汁",
+              "price": "33.00",
+              "format_price": 33,
+              "ischeck": false,
+              "id": "272961"
+            },
+            {
+              "label": "蜂蜜芥末酱",
+              "price": "33.00",
+              "format_price": 33,
+              "ischeck": false,
+              "id": "272962"
+            },
+            {
+              "label": "和风芝麻酱",
+              "price": "33.00",
+              "format_price": 33,
+              "ischeck": false,
+              "id": "272963"
+            },
+            {
+              "label": "日式口味酱",
+              "price": "33.00",
+              "format_price": 33,
+              "ischeck": false,
+              "id": "272964"
+            }
+          ]
+        }
+      ],
+      "cart_goods_number": 0
+    },
+    {
+      "id": "3612400",
+      "cate_id": "637323",
+      "cate_c_id": "0",
+      "g_renqi": "1",
+      "g_name": "瘦身分子鸡胸肉藜麦沙拉",
+      "g_img": "http://xrs.tupiancunchu.com/2019-05-20_5ce2ac5dcdada.jpg",
+      "g_description": "",
+      "g_danwei": "份",
+      "market_price": "0.00",
+      "shop_price": "30.00",
+      "dabao_price": "0.00",
+      "all_kucun": "-1",
+      "day_kucun": "-1",
+      "sale_day_num": "0",
+      "sale_all_num": "14",
+      "virtual_sales": "0",
+      "is_order": "6",
+      "is_shangjia": "1",
+      "is_waimai": "1",
+      "dish_id": "81766",
+      "update_time": "1558359162",
+      "goods_type": "15785",
+      "goods_like_num": "0",
+      "g_print_tag": "0",
+      "is_delete": "1",
+      "is_discount": "0",
+      "discount": "0.00",
+      "discount_price": "0.00",
+      "buy_count": "0",
+      "is_recommend": "0",
+      "yue_xiaoliang": 14,
+      "like_num": 0,
+      "goods_properties": [],
+      "goods_specification": [
+        {
+          "attr_type": "1",
+          "name": "口味",
+          "values": [
+            {
+              "label": "柠檬薄荷牧场酱",
+              "price": "30.00",
+              "format_price": 30,
+              "ischeck": false,
+              "id": "272965"
+            },
+            {
+              "label": "法式罗勒牛油果酱",
+              "price": "30.00",
+              "format_price": 30,
+              "ischeck": false,
+              "id": "272966"
+            },
+            {
+              "label": "意式油醋汁",
+              "price": "30.00",
+              "format_price": 30,
+              "ischeck": false,
+              "id": "272967"
+            },
+            {
+              "label": "蜂蜜芥末酱",
+              "price": "30.00",
+              "format_price": 30,
+              "ischeck": false,
+              "id": "272968"
+            },
+            {
+              "label": "和风芝麻酱",
+              "price": "30.00",
+              "format_price": 30,
+              "ischeck": false,
+              "id": "272969"
+            },
+            {
+              "label": "日式口味酱",
+              "price": "30.00",
+              "format_price": 30,
+              "ischeck": false,
+              "id": "272970"
+            }
+          ]
+        }
+      ],
+      "cart_goods_number": 0
+    }
+  ]
+}
