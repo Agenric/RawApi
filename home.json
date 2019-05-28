@@ -4,21 +4,77 @@
   "data": {
     "images": [
       {
-				"img": "http:\/\/xrs.duoguan.com\/2019-03-05_5c7df007acf57.jpg",
-				"text": "",
-				"link": "",
-				"linkText": ""
-			}, {
-				"img": "http:\/\/xrs.duoguan.com\/2019-03-05_5c7df00b9e1d0.jpg",
-				"text": "",
-				"link": "",
-				"linkText": ""
-			}, {
-				"img": "http:\/\/xrs.duoguan.com\/2019-03-05_5c7df016300cb.png",
-				"text": "",
-				"link": "",
-				"linkText": ""
-			}
-    ]
+        "img": "http://xrs.duoguan.com/2019-03-05_5c7df007acf57.jpg",
+        "text": "",
+        "link": "",
+        "linkText": ""
+      },
+      {
+        "img": "http://xrs.duoguan.com/2019-03-05_5c7df00b9e1d0.jpg",
+        "text": "",
+        "link": "",
+        "linkText": ""
+      },
+      {
+        "img": "http://xrs.duoguan.com/2019-03-05_5c7df016300cb.png",
+        "text": "",
+        "link": "",
+        "linkText": ""
+      }
+    ],
+    "channels": [
+			{
+				"img": "http://rawapi.agenric.cn/static/image/home_calendar.png",
+				"page": "BBS",
+				"title": "减脂计划",
+				"type": "page"
+      },
+      {
+        "img": "http://rawapi.agenric.cn/static/image/home_to_shop.png",
+        "page": "Order",
+        "title": "到店自提",
+        "type": "page"
+      },
+      {
+        "img": "http://rawapi.agenric.cn/static/image/home_take_out.png",
+        "page": "Order",
+        "title": "外卖点餐",
+        "type": "page"
+      }
+		],
+		"rechargeOptions": [
+			{
+        "id": "5084",
+        "reward_id": "3066",
+        "condition": "300.00",
+        "money": "30.00",
+        "score": "0",
+        "coupon": "0"
+      },
+      {
+        "id": "5131",
+        "reward_id": "3066",
+        "condition": "600.00",
+        "money": "90.00",
+        "score": "0",
+        "coupon": "0"
+      },
+      {
+        "id": "5132",
+        "reward_id": "3066",
+        "condition": "1000.00",
+        "money": "200.00",
+        "score": "0",
+        "coupon": "0"
+      },
+      {
+        "id": "5376",
+        "reward_id": "3066",
+        "condition": "3000.00",
+        "money": "750.00",
+        "score": "0",
+        "coupon": "0"
+      }
+		]
   }
 }
